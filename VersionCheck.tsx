@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import { Toast } from 'primereact/toast';
 import { useRef } from 'react';
 import { UpdateStatus } from './types';
